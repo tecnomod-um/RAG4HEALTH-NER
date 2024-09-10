@@ -14,7 +14,9 @@ We have focused on annotating the following entities:
 For that we have used RAG (Retrieval Augmented Generation) with a LLM. The following steps have been carried out:
 - For increasing the variety of the generated texts we have used CANTEMIST and texts from Physical examitation and History of present illness sections of MIMIC IV (sentence level)
 - For generating the texts, we have used seven typical clinical text patterns as seeds
-- For each seed, together with the context from the external processed corpus from CANTEMIST and MIMIC IV, we have prompt the LLM 10 times
+- For each seed, together with the context from the external processed corpus from CANTEMIST and MIMIC IV, we have prompt GPT-4 10 times
+
+We have made a responsible use of MIMIC data by using Azure OpenAI service.
   
 
 # Acknowledgemnts
