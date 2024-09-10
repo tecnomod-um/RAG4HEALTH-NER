@@ -17,6 +17,10 @@ For that we have used RAG (Retrieval Augmented Generation) with a LLM. The follo
 - For each seed, together with the context from the external processed corpus from CANTEMIST and MIMIC IV, we have prompt GPT-4 10 times
 
 We have made a responsible use of MIMIC data by using Azure OpenAI service.
+
+Example of one of the patterns seeds, annotated with the entities:
+
+_The uncle mentioned that his nephew had been under observation for 4 days due to a suspected allergy when he was nine years old where "uncle" and "nephew" are (Person); "under observation" is a (Procedure); "suspected allergy" is a (Finding) and  "suspected" is a (Contextual Qualifier); "for 4 days" and "nine years old" are (Temporal Qualifier)_
   
 
 # Acknowledgemnts
