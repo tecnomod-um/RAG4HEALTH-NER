@@ -53,8 +53,7 @@ def generate_response(query, retrieved_context):
         "top_p": 0.95,
         "max_tokens": 800
     }
-    #GPT4V_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
-    GPT4V_ENDPOINT = "https://umu.openai.azure.com/openai/deployments/setupLLM/chat/completions?api-version=2024-02-15-preview"
+    GPT4V_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
     try:
         response = requests.post(GPT4V_ENDPOINT, headers=headers, json=payload)
         response.raise_for_status()
