@@ -1,6 +1,22 @@
 # RAG4HEALTH-NER
 The objective is to generate an annotated corpus of data for being used to train a NER model based on predefined textual medical patterns and Retrieval Augmented Generation (RAG).
 
+We have focused on annotating the following entities:
+- Procedure
+- Finding
+- BodyStructure
+- Qualifier (Severity, Temporal, Contextual)
+- Person
+- ObservableEntity
+- NumericValue
+
+
+For that we have used RAG (Retrieval Augmented Generation) with a LLM. The following steps have been carried out:
+- For increasing the variety of the generated texts we have used CANTEMIST and texts from Physical examitation and History of present illness sections of MIMIC IV (sentence level)
+- For generating the texts, we have used seven typical clinical text patterns as seeds
+- For each seed, together with the context from the external processed corpus from CANTEMIST and MIMIC IV, we have prompt the LLM 10 times
+  
+
 # Acknowledgemnts
 - This reposity contains work done during the research stay of Catalina Martínez Costa at Stefan Schulz's group at the department of Medical informatics, statistics and documentation (Medical University of Graz).
 
