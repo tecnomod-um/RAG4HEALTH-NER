@@ -1,0 +1,37 @@
+Text,Entities
+The father reports that both children have been suffering from allergies.,father : (Person); children : (Person); allergies : (Finding)
+Her father had a background of respiratory issues.,father : (Person); respiratory issues : (Finding)
+Medical history reveals that his uncle was diagnosed with pneumonia.,uncle : (Person); pneumonia : (Finding)
+Family records show a history of asthma in the mother's side.,mother : (Person); asthma : (Finding)
+The patient states that her two cousins have been treated for eczema.,patient : (Person); cousins : (Person); eczema : (Finding)
+The individual reports that both parents have a history of diabetes.,"individual : (Person); parents : (Person); diabetes : (Finding) and refers to ""parents"" (Person)"
+Her uncle had a family history of hypertension.,"her : (Person); uncle : (Person); hypertension : (Finding) and refers to ""uncle"" (Person)"
+"Family history: both brothers aged four and eight years are healthy, and one sister who passed away at six months due to a serious cardiovascular issue.","Family : (Person); brothers : (Person); sister : (Person); cardiovascular issue : (Finding) and refers to ""sister"" (Person)"
+The father states that both children have been treated for eczema.,"children : (Person); father : (Person); eczema : (Finding) and refers to ""children"" (Person)"
+Her grandmother had a history of hypertension.,grandmother : (Person); hypertension : (Finding)
+"Family history shows that both parents are free from diabetes, while one brother has been managing obesity.","parents : (Person); brother : (Person); diabetes : (Finding); obesity : (Finding) and refers to ""brother"" (Person)"
+"The child reports that both parents have a history of allergies where ""parents"" and ""child"" are (Person); ""allergies"" is (Finding) and refers to ""parents"" (Person)",child : (Person); parents : (Person); allergies : (Finding)
+"Her father has a significant background of eczema where ""father"" and ""Her"" are (Person); ""eczema"" is (Finding) and refers to ""father"" (Person)",Her : (Person); father : (Person); eczema : (Finding)
+"The individual states that one sibling has been treated for hay fever where ""sibling"" and ""individual"" are (Person); ""hay fever"" is (Finding) and refers to ""sibling"" (Person)",individual : (Person); sibling : (Person); hay fever : (Finding)
+"His aunt reveals that all cousins have suffered from eczema where ""aunt"" and ""cousins"" are (Person); ""eczema"" is (Finding) and refers to ""cousins"" (Person)",aunt : (Person); cousins : (Person); eczema : (Finding)
+"The doctor notes that her two cousins suffer from allergies where ""cousins"" and ""Doctor"" are (Person); ""allergies"" is (Finding) and refers to ""cousins"" (Person)",Doctor : (Person); cousins : (Person); allergies : (Finding)
+"His father reported a history of eczema in the family where ""father"" and ""Family"" are (Person); ""eczema"" is (Finding) and refers to ""family"" (Person)",father : (Person); family : (Person); eczema : (Finding)
+"She states that her uncle has been treated for COPD where ""uncle"" and ""She"" are (Person); ""COPD"" is (Finding) and refers to ""uncle"" (Person)",She : (Person); uncle : (Person); COPD : (Finding)
+"The researcher found that his aunt experiences migraines where ""aunt"" and ""researcher"" are (Person); ""migraines"" is (Finding) and refers to ""aunt"" (Person)",researcher : (Person); aunt : (Person); migraines : (Finding)
+"The child reveals that her grandparents had a history of diabetes where ""grandparents"" and ""child"" are (Person); ""diabetes"" is (Finding) and refers to ""grandparents"" (Person)",child : (Person); grandparents : (Person); diabetes : (Finding)
+The individual reports that both cousins have experienced respiratory issues.,individual : (Person); cousins : (Person); respiratory issues : (Finding)
+Her father had a history of respiratory illnesses.,her : (Person); father : (Person); respiratory illnesses : (Finding)
+Medical records show that both aunts suffered from severe allergies.,Medical records : (Finding); aunts : (Person); severe allergies : (Finding)
+"Family background indicates healthy, non-consanguineous parents; one brother aged five years, healthy, and two sisters who faced complications due to a chronic lung disease.",Family background : (Finding); parents : (Person); brother : (Person); sisters : (Person); chronic lung disease : (Finding)
+"The father reports that both children have experienced severe allergies where ""children"" and ""Father"" are (Person); ""allergies"" is (Finding) and refers to ""children"" (Person)",Father : (Person); children : (Person); allergies : (Finding)
+"Her grandmother had a history of diabetes where ""grandmother"" and ""Her"" are (Person); ""diabetes"" is (Finding) and refers to ""grandmother"" (Person)",Her : (Person); grandmother : (Person); diabetes : (Finding)
+"The caregiver states that all relatives had issues with hypertension where ""relatives"" and ""caregiver"" are (Person); ""hypertension"" is (Finding) and refers to ""relatives"" (Person)",caregiver : (Person); relatives : (Person); hypertension : (Finding)
+The doctor notes that several relatives have experienced respiratory issues.,relative : (Person); doctor : (Person); respiratory issues : (Finding)
+"The patient reports that both parents have a history of diabetes where ""parents"" and ""Patient"" are (Person); ""diabetes"" is (Finding) and refers to ""parents"" (Person)",Patient : (Person); parents : (Person); diabetes : (Finding)
+"Her father had a family history of hypertension where ""father"" and ""Her"" are (Person); ""hypertension"" is (Finding) and refers to ""father"" (Person)",Her : (Person); father : (Person); hypertension : (Finding)
+"The individual states that two cousins suffer from allergies where ""cousins"" and ""individual"" are (Person); ""allergies"" is (Finding) and refers to ""cousins"" (Person)",individual : (Person); cousins : (Person); allergies : (Finding)
+"His uncle has a documented case of chronic bronchitis where ""uncle"" and ""His"" are (Person); ""chronic bronchitis"" is (Finding) and refers to ""uncle"" (Person)",His : (Person); uncle : (Person); chronic bronchitis : (Finding)
+"The subject indicates that both grandparents experienced heart disease where ""grandparents"" and ""subject"" are (Person); ""heart disease"" is (Finding) and refers to ""grandparents"" (Person)",subject : (Person); grandparents : (Person); heart disease : (Finding)
+The individual states that his two brothers have been treated for allergies.,"individual : (Person); brothers : (Person); allergies : (Finding) and refers to ""brothers"" (Person)"
+Her father has a history of diabetes.,"her : (Person); father : (Person); diabetes : (Finding) and refers to ""father"" (Person)"
+Family medical history includes a mother with hypertension and a sister diagnosed with eczema.,"Family : (Organization); mother : (Person); hypertension : (Finding) and refers to ""mother"" (Person); sister : (Person); eczema : (Finding) and refers to ""sister"" (Person)"

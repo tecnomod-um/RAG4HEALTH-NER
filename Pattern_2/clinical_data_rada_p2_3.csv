@@ -1,0 +1,75 @@
+Text,Entities
+"Right wrist  
+- Mild swelling  
+- Severe bruising  
+- No deformities  
+- Tenderness over the radial styloid  
+- Tenderness over the ulnar styloid  
+- No tenderness over the dorsal wrist or palmar wrist  
+- Dorsiflexion: 15°  
+- Palmarflexion: 35°","right wrist : (Body Structure); radial styloid of the right wrist : (Body Structure); ulnar styloid of the right wrist : (Body Structure); dorsal wrist : (Body Structure); palmar wrist : (Body Structure); mild swelling : (Finding) and ""mild"" : (Severity Qualifier); severe bruising : (Finding) and ""severe"" : (Severity Qualifier); deformities : (Finding); tenderness : (Finding); dorsiflexion : (Observable entity); palmarflexion : (Observable entity); 15 degrees : (Numeric Value); 35 degrees : (Numeric Value)"
+"Right wrist  
+- Mild swelling  
+- Severe bruising  
+- No deformities  
+- Tenderness over the radial styloid  
+- Tenderness over the ulnar styloid  
+- No tenderness over the dorsal wrist or ventral wrist  
+- Dorsiflexion: 15°  
+- Plantarflexion: 35°",right wrist : (Body Structure); radial styloid of the right wrist : (Body Structure); ulnar styloid of the right wrist : (Body Structure); dorsal wrist : (Body Structure); ventral wrist : (Body Structure); mild swelling : (Finding) and mild : (Severity Qualifier); severe bruising : (Finding) and severe : (Severity Qualifier); deformities : (Finding); tenderness : (Finding); dorsiflexion : (Observable entity) and plantarflexion : (Observable entity); 15 degrees : (Numeric Value) and 35 degrees : (Numeric Value)
+"""The examination reveals a right wrist with notable swelling and mild bruising, without any visible deformities. There is tenderness noted over the radial styloid and the ulnar styloid. No tenderness is observed over the scaphoid or the distal radius. Dorsiflexion is recorded at 15°, and palmarflexion at 35°.""","right wrist : (Body Structure); radial styloid of the right wrist : (Body Structure); ulnar styloid of the right wrist : (Body Structure); scaphoid of the right wrist : (Body Structure); distal radius of the right wrist : (Body Structure); notable swelling : (Finding) and ""notable"" a (Severity Qualifier); mild bruising : (Finding) and ""mild"" a (Severity Qualifier); deformities : (Finding); tenderness : (Finding); dorsiflexion : (Observable entity); palmarflexion : (Observable entity); 15 degrees : (Numeric Value); 35 degrees : (Numeric Value)"
+"Right ankle  
+- Mild swelling  
+- Severe bruising  
+- No deformities  
+- Tenderness over the medial malleolus  
+- Tenderness over the anterior talofibular ligament  
+- No tenderness over the lateral malleolus or posterior ankle  
+- Dorsiflexion: 15°  
+- Plantarflexion: 35°","right ankle : (Body Structure);, medial malleolus of the right ankle : (Body Structure);, anterior talofibular ligament of the right ankle : (Body Structure);, lateral malleolus of the right ankle : (Body Structure);, posterior ankle : (Body Structure);, mild swelling : (Finding) and ""mild"" a (Severity Qualifier);, severe bruising : (Finding) and ""severe"" a (Severity Qualifier);, deformities : (Finding);, tenderness : (Finding);, dorsiflexion : (Observable entity);, plantarflexion : (Observable entity);, 15 degrees : (Numeric Value);, 35 degrees : (Numeric Value)"
+"Right wrist  
+- Moderate swelling  
+- Mild bruising  
+- No deformities  
+- Tenderness over the radial styloid  
+- Tenderness over the ulnar styloid  
+- No tenderness over the dorsal wrist or palmar wrist  
+- Dorsiflexion: 15°  
+- Plantarflexion: 35°","right wrist : (Body Structure);, radial styloid of the right wrist : (Body Structure);, ulnar styloid of the right wrist : (Body Structure);, dorsal wrist : (Body Structure);, palmar wrist : (Body Structure);, moderate swelling : (Finding) and ""moderate"" a (Severity Qualifier);, mild bruising : (Finding) and ""mild"" a (Severity Qualifier);, deformities : (Finding);, tenderness : (Finding);, dorsiflexion : (Observable entity);, plantarflexion : (Observable entity);, 15 degrees : (Numeric Value);, 35 degrees : (Numeric Value)"
+"Right wrist  
+- Moderate swelling  
+- Mild bruising  
+- No deformities  
+- Tenderness over the radial styloid  
+- Tenderness over the ulnar styloid  
+- No tenderness over the dorsal wrist or palmar wrist  
+- Dorsiflexion: 15°  
+- Palmarflexion: 35°","right wrist: (Body Structure); radial styloid of the right wrist: (Body Structure); ulnar styloid of the right wrist: (Body Structure); dorsal wrist: (Body Structure); palmar wrist: (Body Structure); moderate swelling: (Finding) and ""moderate"" a (Severity Qualifier); mild bruising: (Finding) and ""mild"" a (Severity Qualifier); deformities: (Finding); tenderness: (Finding); dorsiflexion: (Observable entity); palmarflexion: (Observable entity); 15 degrees: (Numeric Value); 35 degrees: (Numeric Value)"
+"Right ankle  
+- Mild swelling  
+- Severe bruising  
+- No deformities  
+- Tenderness over the medial malleolus  
+- Tenderness over the anterior talofibular ligament  
+- No tenderness over the lateral malleolus or posterior ankle  
+- Dorsiflexion: 25°  
+- Plantarflexion: 35°","right ankle : (Body Structure); medial malleolus of the right ankle : (Body Structure); anterior talofibular ligament of the right ankle : (Body Structure); lateral malleolus of the right ankle : (Body Structure); posterior ankle : (Body Structure); mild swelling : (Finding) and ""mild"" a (Severity Qualifier); severe bruising : (Finding) and ""severe"" a (Severity Qualifier); deformities : (Finding); tenderness : (Finding); dorsiflexion : (Observable entity); plantarflexion : (Observable entity); 25 degrees : (Numeric Value); 35 degrees : (Numeric Value)"
+"Right wrist  
+- Noticeable swelling  
+- Mild bruising  
+- No deformities  
+- Tenderness over the ulnar styloid  
+- Tenderness over the radial collateral ligament  
+- No tenderness over the scaphoid or dorsal wrist  
+- Dorsiflexion: 15°  
+- Palmarflexion: 35°","right wrist : (Body Structure);, ulnar styloid of the right wrist : (Body Structure);, radial collateral ligament of the right wrist : (Body Structure);, scaphoid of the right wrist : (Body Structure);, dorsal wrist : (Body Structure);, noticeable swelling : (Finding) and ""noticeable"" a (Severity Qualifier);, mild bruising : (Finding) and ""mild"" a (Severity Qualifier);, deformities : (Finding);, tenderness : (Finding);, dorsiflexion : (Observable entity);, palmarflexion : (Observable entity);, 15 degrees : (Numeric Value);, 35 degrees : (Numeric Value)"
+"""The X-ray analysis indicates: 'The anteroposterior and lateral view of the ankle reveals an abnormal bony protrusion, affecting the cortical layer, with no signs of soft tissue damage, located on the medial side of the distal third of the left fibula consistent with osteochondroma.' Upon examination, I noted tenderness upon deep palpation of both the medial and lateral regions of her ankle. An ankle-brachial index (ABI) was assessed: right 1.20; left 1.30. Blood tests were conducted, revealing a CK of 240, alongside an immunological assessment and normal serology results.""","""left ankle: (Body Structure); medial aspect of the distal third of the left fibula: (Body Structure); tenderness: (Finding); medial and lateral regions of the ankle: (Body Structure); ankle-brachial index (ABI): (Observable entity); right 1.20 and left 1.30: (Numeric Value); CK of 240: (Numeric Value)"""
+"Right knee  
+- Mild swelling  
+- Severe bruising  
+- No deformities  
+- Tenderness over the medial collateral ligament  
+- Tenderness over the patellar tendon  
+- No tenderness over the lateral collateral ligament or posterior knee  
+- Dorsiflexion: 15°  
+- Plantarflexion: 35°","right knee : (Body Structure); medial collateral ligament of the right knee : (Body Structure); patellar tendon of the right knee : (Body Structure); lateral collateral ligament of the right knee : (Body Structure); posterior knee : (Body Structure); mild swelling : (Finding) and ""mild"" : (Severity Qualifier); severe bruising : (Finding) and ""severe"" : (Severity Qualifier); deformities : (Finding); tenderness : (Finding); dorsiflexion : (Observable entity); plantarflexion : (Observable entity); 15 degrees : (Numeric Value); 35 degrees : (Numeric Value)"

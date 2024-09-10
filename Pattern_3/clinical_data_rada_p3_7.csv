@@ -1,0 +1,32 @@
+Text,Entities
+"""Abdominal MRI indicates the presence of a mass in the right adrenal gland, measuring 7.5×4.3cm, consistent with adrenal adenoma, without any signs of metastasis.""","""mass"" : (Finding); ""right adrenal gland"" : (Body Structure); ""adrenal adenoma"" : (Finding); ""MRI"" : (Procedure)"
+"""Abdominal MRI: detection of bilateral adrenal masses""",Adrenal masses : (Finding); Bilateral adrenal : (Body Structure); MRI : (Procedure)
+"""CT scan revealed an enlarged right adrenal gland with associated hemorrhage""",Enlarged right adrenal gland : (Finding); Right adrenal gland : (Body Structure); CT scan : (Procedure)
+"""Ultrasound examination indicated the presence of a cystic lesion on the left adrenal gland""",Cystic lesion : (Finding); Left adrenal gland : (Body Structure); Ultrasound examination : (Procedure)
+"""MRI findings suggest hyperplasia of the left adrenal gland, but no tumors detected""",Hyperplasia : (Finding); Left adrenal gland : (Body Structure); MRI : (Procedure)
+"""Abdominal MRI reveals an enlarged adrenal gland with characteristics consistent with adrenal hyperplasia and a small adrenal adenoma.""",Adrenal hyperplasia : (Finding); Adrenal adenoma : (Finding); Adrenal gland : (Body Structure); MRI : (Procedure)
+"""An abdominal ultrasound detected a right adrenal mass that measures 7.5 cm, suspected to be an adenoma, without any signs of surrounding lymphadenopathy.""",Adrenal mass : (Finding); Adenoma : (Finding); Right adrenal : (Body Structure); Ultrasound : (Procedure)
+"""CT imaging of the abdomen demonstrates a normal appearance of adrenal glands, ruling out any significant hyperplasia or tumors.""",Adrenal glands : (Body Structure); Hyperplasia : (Finding); Tumors : (Finding); CT imaging : (Procedure)
+"""Abdominal MRI: identification of enlarged adrenal glands""",enlarged adrenal glands : (Finding); Abdominal MRI : (Procedure)
+"""Abdominal MRI scan revealed a right adrenal lesion sized 7.0×4.5cm, indicative of adenocarcinoma, without any regional lymphadenopathy""",right adrenal lesion : (Finding); adenocarcinoma : (Finding); Abdominal MRI scan : (Procedure)
+"""Ultrasound examination detects a mass in the left adrenal region measuring about 5x5 cm""",mass in the left adrenal region : (Finding); Ultrasound examination : (Procedure)
+"""Abdominal MRI: identification of enlarged adrenal glands""","""Enlarged adrenal glands"" : (Finding); ""adrenal glands"" : (Body Structure); ""MRI"" : (Procedure)"
+"""CT scan of the abdomen revealed a right adrenal lesion measuring 4.5×3.2cm, consistent with adrenal adenoma, without adjacent lymphadenopathy""","""Right adrenal lesion"" : (Finding); ""adrenal"" : (Body Structure); ""CT scan"" : (Procedure)"
+"""Ultrasound examination indicates a mass in the left adrenal region approximately 5x4 cm in size""","""Mass in the left adrenal region"" : (Finding); ""left adrenal region"" : (Body Structure); ""Ultrasound examination"" : (Procedure)"
+"""Abdominal MRI: evidence of enlarged adrenal glands""",Adrenal glands : (Body Structure); MRI : (Procedure); enlarged : (Finding)
+"""CT scan of the abdomen revealed a right adrenal mass of 7.5×4.3 cm, potentially indicating adrenal carcinoma, with no significant lymphadenopathy present""",adrenal mass : (Finding); adrenal carcinoma : (Finding); abdomen : (Body Structure); CT scan : (Procedure); lymphadenopathy : (Finding)
+"""Ultrasound examination detected a lesion in the left adrenal region measuring about 5x5 cm""",lesion : (Finding); left adrenal region : (Body Structure); ultrasound : (Procedure)
+"""Abdominal MRI: identification of enlarged adrenal glands""",Adrenal glands : (Body Structure); enlarged : (Finding); MRI : (Procedure)
+"""CT scan of the abdomen reveals a right adrenal lesion measuring 4.5×3.2 cm, concerning for adrenal carcinoma""",adrenal lesion : (Finding); right adrenal : (Body Structure); CT scan : (Procedure)
+"""Ultrasound imaging indicated a hypoechoic mass in the left adrenal gland measuring about 5x5 cm""",hypoechoic mass : (Finding); left adrenal gland : (Body Structure); Ultrasound imaging : (Procedure)
+"""CT scan of the abdomen reveals enlarged adrenal glands consistent with adrenal hyperplasia.""",adrenal hyperplasia : (Finding); adrenal gland : (Body Structure); CT scan : (Procedure)
+"""MRI findings indicate a right adrenal adenoma measuring 4.5 cm, with no signs of invasion.""",adrenal adenoma : (Finding); adrenal gland : (Body Structure); MRI : (Procedure)
+"""Ultrasound examination shows a significant mass in the left adrenal gland, likely representing an adrenal tumor.""",adrenal tumor : (Finding); adrenal gland : (Body Structure); ultrasound : (Procedure)
+"""Abdominal MRI indicates enlargement of the right adrenal gland.""","""enlargement"" : (Finding); ""right adrenal gland"" : (Body Structure); ""MRI"" : (Procedure)"
+"""CT scan reveals a right adrenal mass of 4.5 cm, consistent with an adrenal adenoma.""","""right adrenal mass"" : (Finding); ""4.5 cm"" : (Finding); ""adrenal adenoma"" : (Finding); ""CT scan"" : (Procedure)"
+"""Ultrasound examination shows bilateral adrenal hyperplasia.""","""bilateral adrenal hyperplasia"" : (Finding); ""ultrasound examination"" : (Procedure)"
+"""CT imaging of the abdomen demonstrates an abnormality in the left adrenal gland.""","""abnormality"" : (Finding); ""left adrenal gland"" : (Body Structure); ""CT imaging"" : (Procedure)"
+"""Abdominal MRI reveals a hyperplastic adrenal gland with no signs of malignancy.""",hyperplastic adrenal gland : (Finding); adrenal gland : (Body Structure); MRI : (Procedure)
+"""CT scan indicates a right adrenal lesion, consistent with a benign adenoma, measuring 4.5 cm.""",right adrenal lesion : (Finding); adenoma : (Finding); adrenal gland : (Body Structure); CT scan : (Procedure)
+"""Ultrasound examination detects an enlargement of the adrenal glands without evidence of tumors.""",enlargement of the adrenal glands : (Finding); adrenal glands : (Body Structure); ultrasound examination : (Procedure)
+"""Abdominal PET scan reveals an abnormality in the left adrenal gland, likely indicating hyperplasia.""",abnormality in the left adrenal gland : (Finding); hyperplasia : (Finding); left adrenal gland : (Body Structure); PET scan : (Procedure)

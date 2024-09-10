@@ -1,0 +1,51 @@
+Text,Entities
+"Left shoulder  
+- Moderate swelling  
+- No effusion  
+- No deformities  
+- Tenderness over the acromioclavicular joint  
+- Tenderness over the rotator cuff  
+- No tenderness over the glenohumeral joint or scapula  
+- Abduction: 75°  
+- Adduction: -10°","left shoulder : (Body Structure);, acromioclavicular joint of the left shoulder : (Body Structure);, rotator cuff of the left shoulder : (Body Structure);, glenohumeral joint of the left shoulder : (Body Structure);, scapula of the left shoulder : (Body Structure);, moderate swelling : (Finding);, moderate : (Severity Qualifier);, effusion : (Finding);, deformities : (Finding);, tenderness : (Finding);, abduction : (Observable entity);, 75 degrees : (Numeric Value);, minus 10 degrees : (Numeric Value)"
+"""The discomfort extended to the left shoulder"" ""Follow-up examinations were conducted to investigate the primary tumor, while a consultation was requested by the Orthopedics Department regarding an acute episode and intense pain in the shoulder"" ""ROS: (+) Neck/shoulder pain with nausea, (+) abdominal pain with vomiting, (+) fever, (+) 5 lb weight loss""",left shoulder: (Body Structure); primary tumor: (Finding); Orthopedics Department: (Organization); acute episode: (Finding); intense pain: (Finding); neck/shoulder pain: (Finding); nausea: (Finding); abdominal pain: (Finding); vomiting: (Finding); fever: (Finding); 5 lb: (Numeric Value)
+"""The discomfort extended to the left shoulder"" ""Further evaluations were conducted to identify the underlying tumor, while a consultation was sought from the Orthopedic Department due to an abrupt onset and high severity of pain in the shoulder"" ""ROS: (+) Back/shoulder discomfort with nausea, (+) abdominal pain with nausea, (+) fever, (+) 7 lb weight loss""",left shoulder : (Body Structure); underlying tumor : (Finding); pain in the shoulder : (Finding); discomfort : (Finding); nausea : (Finding); abdominal pain : (Finding); fever : (Finding); 7 lb weight loss : (Finding); 8 lb weight loss : (Finding); high severity : (Severity Qualifier); abrupt onset : (Severity Qualifier)
+"""The pain radiated to the left shoulder"" ""Complementary studies were continued in search of the primitive neoplasm, at the same time as an assessment was requested by the Traumatology Department of a sudden onset and severe intensity of pain in the shoulder"" ""ROS: (+) Back/shoulder pain with emesis, (+) epigastric pain with emesis, (+) chills, (+) 8 lb weight loss""","""left shoulder"" : (Body Structure); ""pain"" : (Finding); ""sudden onset"" : (Finding); ""severe intensity"" : (Severity Qualifier); ""shoulder"" : (Body Structure); ""Back/shoulder pain"" : (Finding); ""emesis"" : (Finding); ""epigastric pain"" : (Finding); ""chills"" : (Finding); ""8 lb weight loss"" : (Finding)"
+"Left shoulder  
+- Moderate swelling  
+- No effusion  
+- No deformities  
+- Tenderness over the acromioclavicular joint  
+- Tenderness over the rotator cuff  
+- No tenderness over the glenohumeral joint or scapula  
+- Abduction: 70°  
+- Adduction: -10°","left shoulder : (Body Structure);, acromioclavicular joint of the left shoulder : (Body Structure);, rotator cuff of the left shoulder : (Body Structure);, glenohumeral joint of the left shoulder : (Body Structure);, scapula of the left shoulder : (Body Structure);, moderate swelling : (Finding);, moderate : (Severity Qualifier);, effusion : (Finding);, deformities : (Finding);, tenderness : (Finding);, abduction : (Observable entity);, 70 degrees : (Numeric Value);, minus 10 degrees : (Numeric Value)"
+"Left shoulder  
+- Moderate swelling  
+- No effusion  
+- No deformities  
+- Tenderness over the acromioclavicular joint  
+- Tenderness over the rotator cuff  
+- No tenderness over the glenohumeral joint or scapula  
+- Abduction: 75°  
+- Adduction: -10°",left shoulder : (Body Structure); acromioclavicular joint of the left shoulder : (Body Structure); rotator cuff of the left shoulder : (Body Structure); glenohumeral joint of the left shoulder : (Body Structure); scapula of the left shoulder : (Body Structure); moderate swelling : (Finding); moderate : (Severity Qualifier); effusion : (Finding); deformities : (Finding); tenderness : (Finding); abduction : (Observable entity); 75 degrees : (Numeric Value); minus 10 degrees : (Numeric Value)
+"""The discomfort extended to the left shoulder"" ""Follow-up examinations were carried out to investigate the primary tumor, while an evaluation was requested by the Orthopedic Department due to an abrupt onset and extreme pain in the shoulder"" ""ROS: (+) Neck/shoulder pain accompanied by nausea, (+) abdominal pain with nausea, (+) fever, (+) 5 lb weight loss""",left shoulder : (Body Structure); primary tumor : (Finding); Orthopedic Department : (Organization); abrupt onset : (Finding); extreme pain : (Finding); neck/shoulder pain : (Finding); nausea : (Finding); abdominal pain : (Finding); fever : (Finding); 5 lb weight loss : (Finding)
+"Left shoulder  
+- Moderate swelling  
+- No effusion  
+- No deformities  
+- Tenderness over the acromioclavicular joint  
+- Tenderness over the rotator cuff  
+- No tenderness over the glenohumeral joint or scapula  
+- Abduction: 75°  
+- Adduction: -10°","left shoulder : (Body Structure);, acromioclavicular joint of the left shoulder : (Body Structure);, rotator cuff of the left shoulder : (Body Structure);, glenohumeral joint of the left shoulder : (Body Structure);, scapula of the left shoulder : (Body Structure);, moderate swelling : (Finding);, moderate : (Severity Qualifier);, effusion : (Finding);, deformities : (Finding);, tenderness : (Finding);, abduction : (Observable entity);, 75 degrees : (Numeric Value);, minus 10 degrees : (Numeric Value)"
+"""The discomfort extended to the left shoulder."" ""Further investigations were conducted to identify the primary tumor, while a consultation was initiated by the Orthopedics Department due to an abrupt onset and extreme pain in the shoulder."" ""ROS: (+) Neck/shoulder pain with nausea, (+) abdominal pain with vomiting, (+) fever, (+) 5 lb weight loss.""",left shoulder : (Body Structure); primary tumor : (Finding); Orthopedics Department : (Organization); abrupt onset : (Finding); extreme pain : (Finding); neck pain : (Finding); shoulder pain : (Finding); nausea : (Finding); abdominal pain : (Finding); vomiting : (Finding); fever : (Finding); 5 lb weight loss : (Finding)
+"Left shoulder  
+- Moderate swelling  
+- No effusion  
+- No deformities  
+- Tenderness over the acromioclavicular joint  
+- Tenderness over the rotator cuff  
+- No tenderness over the glenohumeral joint or scapula  
+- Abduction: 75°  
+- Adduction: -10°","left shoulder : (Body Structure);, acromioclavicular joint of the left shoulder : (Body Structure);, rotator cuff of the left shoulder : (Body Structure);, glenohumeral joint of the left shoulder : (Body Structure);, scapula of the left shoulder : (Body Structure);, moderate swelling : (Finding);, moderate : (Severity Qualifier);, effusion : (Finding);, deformities : (Finding);, tenderness : (Finding);, abduction : (Observable entity);, 75 degrees : (Numeric Value);, minus 10 degrees : (Numeric Value)"

@@ -1,0 +1,36 @@
+Text,Entities
+"""Abdominal ultrasound: several masses in the right kidney""",mass: (Finding); right kidney: (Body Structure); ultrasound: (Procedure)
+"""CT scan: notable hydronephrosis in the left kidney""",hydronephrosis: (Finding); left kidney: (Body Structure); CT scan: (Procedure)
+"""Pelvic MRI: multiple lesions in the bladder""",lesions: (Finding); bladder: (Body Structure); MRI: (Procedure)
+"""Liver ultrasound: enlarged liver and gallbladder stones""",enlarged liver: (Finding); gallbladder stones: (Finding); liver: (Body Structure); ultrasound: (Procedure)
+"""Chest X-ray: pleural effusion observed on the right side""",pleural effusion: (Finding); right side: (Body Structure); X-ray: (Procedure)
+"""Urological MRI: numerous lesions in the right kidney""","""Lesions"" : (Finding); ""Kidney"" : (Body Structure); ""MRI"" : (Procedure)"
+"""Abdominal CT scan: unilateral renal masses detected""","""Renal masses"" : (Finding); ""Kidney"" : (Body Structure); ""CT scan"" : (Procedure)"
+"""Liver ultrasound: several nodules in the hepatic parenchyma""","""Nodules"" : (Finding); ""Hepatic parenchyma"" : (Body Structure); ""Ultrasound"" : (Procedure)"
+"""Chest X-ray: bilateral pleural effusions identified""","""Pleural effusions"" : (Finding); ""Pleura"" : (Body Structure); ""X-ray"" : (Procedure)"
+"""Cardiac MRI: enlarged heart chambers observed""","""Enlarged heart chambers"" : (Finding); ""Heart"" : (Body Structure); ""MRI"" : (Procedure)"
+"""Renal ultrasound shows enlarged kidneys with several cysts present.""",Enlarged kidneys : (Finding); Cysts : (Finding); Renal ultrasound : (Procedure)
+"""CT scan reveals significant hydronephrosis in the right kidney.""",Hydronephrosis : (Finding); Right kidney : (Body Structure); CT scan : (Procedure)
+"""Ultrasound examination indicates multiple solid masses in the left kidney.""",Solid masses : (Finding); Left kidney : (Body Structure); Ultrasound examination : (Procedure)
+"""MRI findings demonstrate bilateral renal calculi.""",Bilateral renal calculi : (Finding); MRI : (Procedure)
+"""Abdominal ultrasound revealed enlarged kidneys with multiple cysts.""",enlarged kidneys : (Body Structure); multiple cysts : (Finding); abdominal ultrasound : (Procedure)
+"""CT scan shows bilateral renal masses and cysts in the right kidney.""",bilateral renal masses : (Finding); cysts : (Finding); right kidney : (Body Structure); CT scan : (Procedure)
+"""Pelvic MRI indicated hydronephrosis and several cysts on the left kidney.""",hydronephrosis : (Finding); several cysts : (Finding); left kidney : (Body Structure); pelvic MRI : (Procedure)
+"""Ultrasound findings included multiple renal cysts and renal enlargement.""",multiple renal cysts : (Finding); renal enlargement : (Finding); ultrasound : (Procedure)
+"""MRI results demonstrate significant nephromegaly and various cysts within both kidneys.""",significant nephromegaly : (Finding); various cysts : (Finding); both kidneys : (Body Structure); MRI : (Procedure)
+"""Urological MRI: several cysts in the right kidney"" ""PSA: 1.23 ng/ml. - Renal ultrasound: unilateral renal sinus cysts"" ""In both instances, a comprehensive histological analysis was conducted, particularly examining the kidneys where multiple cysts of varying dimensions with saccular shape were identified at the cortical level.""","""Cysts"" : (Finding); ""Kidney"" : (Body Structure); ""MRI"" : (Procedure); ""PSA"" : (Measurement); ""Ultrasound"" : (Procedure)"
+"""Kidney ultrasound: several abnormalities detected in the right kidney""",kidney : (Body Structure); ultrasound : (Procedure); abnormalities : (Finding)
+"""CT scan: enlarged renal pelvis and hydronephrosis noted""",renal pelvis : (Body Structure); hydronephrosis : (Finding); CT scan : (Procedure)
+"""Abdominal MRI shows multiple renal calculi and hydronephrosis""",renal calculi : (Finding); hydronephrosis : (Finding); abdominal MRI : (Procedure)
+"""Ultrasound revealed renal asymmetry with notable cystic changes in the right kidney""",renal asymmetry : (Finding); cystic changes : (Finding); right kidney : (Body Structure); ultrasound : (Procedure)
+"""Abdominal CT scan: several nodules detected in the right lung"" ""Biopsy: 0.98 ng/ml. - Chest ultrasound: unilateral pleural effusion"" ""In both instances, a thorough pathological examination was conducted, particularly on the lungs where multiple nodules of varying dimensions with irregular shapes were identified at the parenchymal level.""","""Nodules"" : (Finding); ""Lung"" : (Body Structure); ""CT scan"" : (Procedure); ""Pleural effusion"" : (Finding); ""Lung"" : (Body Structure); ""Biopsy"" : (Procedure); ""Pathological examination"" : (Procedure)"
+"""Renal ultrasound: several cysts in the right kidney""","""Cysts"" : (Finding); ""Right kidney"" : (Body Structure); ""Ultrasound"" : (Procedure)"
+"""PSA: 2.10 ng/ml. - Urological ultrasound: unilateral renal sinus cysts""","""Unilateral renal sinus cysts"" : (Finding); ""PSA"" : (Finding); ""Urological ultrasound"" : (Procedure)"
+"""In these analyses, a comprehensive histopathological examination was conducted, concentrating particularly on the kidneys where numerous cysts of varying dimensions with spherical shapes were observed at the cortex""","""Cysts"" : (Finding); ""Kidneys"" : (Body Structure); ""Histopathological examination"" : (Procedure)"
+"""Urological MRI: numerous cysts found in the right kidney""","""Cysts"" : (Finding); ""Right kidney"" : (Body Structure); ""MRI"" : (Procedure)"
+"""Ultrasound examination: several cysts detected in the right renal area""","""Cysts"" : (Finding); ""Right renal area"" : (Body Structure); ""Ultrasound"" : (Procedure)"
+"""CT scan results: prominent nephromegaly with multiple cysts in both kidneys""","""Nephromegaly"" : (Finding); ""Cysts"" : (Finding); ""Both kidneys"" : (Body Structure); ""CT scan"" : (Procedure)"
+"""Sonography: left kidney shows a variety of cysts""","""Cysts"" : (Finding); ""Left kidney"" : (Body Structure); ""Sonography"" : (Procedure)"
+"""Renal ultrasound: several cysts in the right kidney""","""Cysts"" : (Finding); ""Kidney"" : (Body Structure); ""Ultrasound"" : (Procedure)"
+"""PSA: 2.00 ng/ml. - Urological ultrasound: unilateral renal sinus cysts""","""Cysts"" : (Finding); ""Kidney"" : (Body Structure); ""Ultrasound"" : (Procedure)"
+"""In both instances, a comprehensive histological analysis was conducted, particularly on the kidneys where numerous cysts of varying dimensions with saccular shape were observed at the cortical level""","""Cysts"" : (Finding); ""Kidneys"" : (Body Structure)"

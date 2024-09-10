@@ -1,0 +1,91 @@
+Text,Entities
+"Left shoulder  
+- Moderate discomfort  
+- Mild swelling present  
+- No fractures  
+- Tenderness over the glenohumeral joint  
+- Tenderness over the infraspinatus tendon  
+- No tenderness over the scapula or biceps region  
+- Abduction: 80°  
+- External rotation: -5°",Left shoulder : (Body Structure); over the glenohumeral joint : (Body Structure); over the infraspinatus tendon : (Body Structure); scapula or biceps region : (Body Structure); Moderate discomfort : (Finding); Moderate : (Severity Qualifier); Mild swelling present : (Finding); fractures : (Finding); Tenderness over the glenohumeral joint : (Finding); Tenderness over the infraspinatus tendon : (Finding); Abduction : (Observable Entity); External rotation : (Observable Entity); 80° : (Numeric Value); -5° : (Numeric Value)
+"Left shoulder  
+- Mild discomfort  
+- Minimal swelling  
+- No fractures  
+- Tenderness over the glenohumeral joint  
+- Tenderness over the infraspinatus muscle  
+- No tenderness over the scapula or biceps region  
+- Abduction: 80°  
+- External rotation: -5°",Left shoulder : (Body Structure); over the glenohumeral joint : (Body Structure); over the infraspinatus muscle : (Body Structure); scapula or biceps region : (Body Structure); Mild discomfort : (Finding); Mild : (Severity Qualifier); Minimal swelling : (Finding); Minimal : (Severity Qualifier); fractures : (Finding); Tenderness over the glenohumeral joint : (Finding); Tenderness over the infraspinatus muscle : (Finding); Abduction : (Observable Entity); External rotation : (Observable Entity); 80° : (Numeric Value); -5° : (Numeric Value)
+"Left shoulder  
+- Moderate discomfort  
+- Mild swelling  
+- No fractures  
+- Tenderness over the glenohumeral joint  
+- Tenderness over the infraspinatus tendon  
+- No tenderness over the scapula or upper arm  
+- Abduction: 70°  
+- External rotation: -5°",Left shoulder : (Body Structure); over the glenohumeral joint : (Body Structure); over the infraspinatus tendon : (Body Structure); scapula or upper arm : (Body Structure); Moderate discomfort : (Finding); Mild swelling : (Finding); No fractures : (Finding); Tenderness over the glenohumeral joint : (Finding); Tenderness over the infraspinatus tendon : (Finding); Abduction : (Observable Entity); External rotation : (Observable Entity); 70° : (Numeric Value); -5° : (Numeric Value)
+"Left shoulder  
+- Moderate discomfort  
+- Mild swelling  
+- No fractures  
+- Tenderness over the glenohumeral joint  
+- Tenderness over the infraspinatus tendon  
+- No tenderness over the scapula or biceps region  
+- Abduction: 80°  
+- External rotation: -5°","Left shoulder : (Body Structure);, over the glenohumeral joint : (Body Structure);, over the infraspinatus tendon : (Body Structure);, scapula or biceps region : (Body Structure);, Moderate discomfort : (Finding);, Moderate : (Severity Qualifier);, Mild swelling : (Finding);, No fractures : (Finding);, Tenderness over the glenohumeral joint : (Finding);, Tenderness over the infraspinatus tendon : (Finding);, Abduction : (Observable Entity);, External rotation : (Observable Entity);, 80° : (Numeric Value);, -5° : (Numeric Value)"
+"Left shoulder  
+- Moderate discomfort  
+- Mild swelling present  
+- No fractures  
+- Tenderness around the glenohumeral joint  
+- Tenderness around the infraspinatus tendon  
+- No tenderness in the scapular or bicep area  
+- Abduction: 80°  
+- External rotation: -5°","Left shoulder : (Body Structure);, around the glenohumeral joint : (Body Structure);, around the infraspinatus tendon : (Body Structure);, scapular or bicep area : (Body Structure);, Moderate discomfort : (Finding);, Moderate : (Severity Qualifier);, Mild swelling present : (Finding);, No fractures : (Finding);, Tenderness around the glenohumeral joint : (Finding);, Tenderness around the infraspinatus tendon : (Finding);, Abduction : (Observable Entity);, External rotation : (Observable Entity);, 80° : (Numeric Value);, -5° : (Numeric Value)"
+"Left shoulder  
+- Moderate discomfort  
+- Mild swelling observed  
+- No fractures  
+- Tenderness around the glenohumeral joint  
+- Tenderness near the infraspinatus muscle  
+- No tenderness over the scapula or lateral deltoid  
+- Abduction: 80°  
+- External rotation: -15°","Left shoulder : (Body Structure);, around the glenohumeral joint : (Body Structure);, near the infraspinatus muscle : (Body Structure);, scapula or lateral deltoid : (Body Structure);, Moderate discomfort : (Finding);, Moderate : (Severity Qualifier);, Mild swelling observed : (Finding);, No fractures : (Finding);, Tenderness around the glenohumeral joint : (Finding);, Tenderness near the infraspinatus muscle : (Finding);, Abduction : (Observable Entity);, External rotation : (Observable Entity);, 80° : (Numeric Value);, -15° : (Numeric Value)"
+"Left shoulder  
+- Moderate discomfort  
+- Mild swelling  
+- No fractures  
+- Sensitivity around the glenohumeral joint  
+- Sensitivity around the infraspinatus tendon  
+- No sensitivity around the scapula or biceps region  
+- Abduction: 80°  
+- External rotation: -5°","Left shoulder : (Body Structure);, around the glenohumeral joint : (Body Structure);, around the infraspinatus tendon : (Body Structure);, scapula or biceps region : (Body Structure);, Moderate discomfort : (Finding);, Moderate : (Severity Qualifier);, Mild swelling : (Finding);, No fractures : (Finding);, Sensitivity around the glenohumeral joint : (Finding);, Sensitivity around the infraspinatus tendon : (Finding);, Abduction : (Observable Entity);, External rotation : (Observable Entity);, 80° : (Numeric Value);, -5° : (Numeric Value)"
+"Left shoulder  
+- Moderate discomfort  
+- Minimal swelling  
+- No fractures  
+- Tenderness over the glenohumeral joint  
+- Tenderness over the infraspinatus tendon  
+- No tenderness over the scapula or bicep region  
+- Abduction: 85°  
+- External rotation: -5°",Left shoulder : (Body Structure); over the glenohumeral joint : (Body Structure); over the infraspinatus tendon : (Body Structure); scapula or bicep region : (Body Structure); Moderate discomfort : (Finding); Moderate : (Severity Qualifier); Minimal swelling : (Finding); fractures : (Finding); Tenderness over the glenohumeral joint : (Finding); Tenderness over the infraspinatus tendon : (Finding); Abduction : (Observable Entity); External rotation : (Observable Entity); 85° : (Numeric Value); -5° : (Numeric Value)
+"Left shoulder  
+- Moderate discomfort  
+- Mild swelling present  
+- No fractures  
+- Tenderness over the glenohumeral joint  
+- Tenderness over the infraspinatus tendon  
+- No tenderness over the scapula or biceps region  
+- Abduction: 80°  
+- External rotation: -5°","Left shoulder : (Body Structure);, over the glenohumeral joint : (Body Structure);, over the infraspinatus tendon : (Body Structure);, scapula or biceps region : (Body Structure);, Moderate discomfort : (Finding);, Moderate : (Severity Qualifier);, Mild swelling present : (Finding);, No fractures : (Finding);, Tenderness over the glenohumeral joint : (Finding);, Tenderness over the infraspinatus tendon : (Finding);, Abduction : (Observable Entity);, External rotation : (Observable Entity);, 80° : (Numeric Value);, -5° : (Numeric Value)"
+"Left shoulder  
+- Moderate discomfort  
+- Mild swelling present  
+- No fractures  
+- Tenderness over the glenohumeral joint  
+- Tenderness over the infraspinatus tendon  
+- No tenderness over the scapula or biceps region  
+- Abduction: 80°  
+- External rotation: -5°",Left shoulder : (Body Structure); glenohumeral joint : (Body Structure); infraspinatus tendon : (Body Structure); scapula or biceps region : (Body Structure); Moderate discomfort : (Finding); Mild swelling present : (Finding); No fractures : (Finding); Tenderness over the glenohumeral joint : (Finding); Tenderness over the infraspinatus tendon : (Finding); Abduction : (Observable Entity); External rotation : (Observable Entity); 80° : (Numeric Value); -5° : (Numeric Value)
